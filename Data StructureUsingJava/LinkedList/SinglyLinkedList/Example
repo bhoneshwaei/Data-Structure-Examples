@@ -1,0 +1,21 @@
+Traversal of Singly Linked List (IterativeApproach)
+Traversal of Singly Linked List (RecursiveApproach)
+
+Insertion : AttheBeginning , AttheEnd and Ataspecificposition
+
+Deletion : FromBeginning, FromEnd and FromAspecificposition
+
+Searching : Find whether a given key exists in the list
+
+Updating (Modification) : Modify contents of linked list.
+
+Reversal : Reverse the linked list and make the last node as new head.
+[Approach] Using Iterative Method - O(n) Time and O(1) Space
+[Alternate Approach 1] Using Recursion Method- O(n) Time and O(n) Space
+[Alternate Approach 2] Using Stack - O(n) Time and O(n) Space
+
+Updating:
+Modify contents of Linked List
+[Naive Approach] Change Linked List to Array - O(n) Time and O(n) Space
+[Expected Approach] Reverse the 2nd Half Twice - O(n) Time and O(1) Space
+
